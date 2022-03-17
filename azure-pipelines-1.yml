@@ -3,10 +3,11 @@
 # Add steps that build, run tests, deploy, and more:
 # https://aka.ms/yaml
 
+ 
 pool:
   name: default
 
-container: ubuntu:18.04
+ 
 
 steps:
 - script: printenv
