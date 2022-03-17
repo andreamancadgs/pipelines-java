@@ -7,7 +7,7 @@
 pool:
   name: default
 
- 
-
 steps:
 - script: printenv
+- script: dir
+
